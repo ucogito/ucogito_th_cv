@@ -17,7 +17,6 @@
 | * | University of Glamorgan (UK) | Modern Evangelical Theology | Th.M |
 | * | ACTS University | Historical Theology | Th.M. Candidate |
 | * | Hapdong Theological Seminary | Ministry | M.Div. equiv. |
-| * | Hapdong Theological Seminary | Ministry | M.Div. equiv. |
 | * | ACBS | Korean as Foreign Language | B.A. |
 | * | ACBS | Psychology | B.A. |
 | * | ACBS | Social Welfare | B.A. |
