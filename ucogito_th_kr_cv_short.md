@@ -62,7 +62,7 @@
 | --- | --- | --- | --- |
 | 심리학박사 | 2023 | [<i>The Effectiveness of Coaching Leadership: Systematic Review and Meta-Analysis with R</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=db44d62eb467cc81ffe0bdc3ef48d419&keyword=) | 대전대학교 |
 | 상담심리학박사 | 2020 | [<i>The Research on Themes and Trends Using NVivo in TA Framework, EBMSA, and Leadership & Coaching: Focusing on Transactional Analysis Journal from 1971 to 2019</i>](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=cdd2e96aca8fbfbaffe0bdc3ef48d419&keyword=The%20Research%20on%20Themes%20and%20Trends%20Using%20NVivo) | 예명대학원대학교 |
-| Th.M | 1999 | <i>An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology</i> | University of Glamorgan. Wales, UK |
+| Th.M | 1999 | [<i>An Outline and Assessment of Contextualisation with Special Reference to Waterbuffalo Theology</i>](https://ust.soutron.net/Portal/Default/en-GB/RecordView/Index/29418) | University of Glamorgan. Wales, UK |
 
 
 ::: 연구논문(Journal Articles) :::
