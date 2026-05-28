@@ -1,8 +1,8 @@
-### 박필립 이력서 ###
+### 박 용 민 이력서 ###
 
 | 이름 | 직위 |
 | --- | --- |
-| 박필립 | [강사, 상담학과, 교육&상담대학원, Midwest 대학교](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
+| 박 필립 | [교수, 상담학과, 교육&상담대학원, Midwest 대학교](https://www.midwest.edu/eng/02academic/05faculty.asp#) |
 | 박사학위 | 심리학 박사(Ph.D. in Psychology) |
 | | 상담심리학 박사(Ph.D. in Counseling Psychology) |
 | 이메일 | yongmin.park@midwest.edu / nlpwhiz@gmail.com |
