@@ -11,23 +11,23 @@
 
 | 연도 | 학교 | 학과(전공) | 학위기 |
 | --- | --- | --- | --- |
-| 18.03~23.08 | 대전대학교 대학원 | 심리학과 심리학 전공 | 심리학박사(대전대2022(박)-056) |
-| 16.03~20.02 | 예명대학원대학교 | 인문사회학부 상담심리학 전공 | 상담심리학박사(예명대(박)-47) |
-| 09.03~11.08 | 충북대학교 대학원 | 산림학과 산림환경학 전공 | 박사과정 수료 |
-| 20.03~21.02 | 예명대학원대학교 | 인문사회학부 정신분석상담 전공 | 정신분석상담학석사(예명대(석)-366) |
-| 97.09~00.06 | University of Glamorgan(UK) | Modern Evangelical Theology | Th.M(97001910) |
-| 20.03~23.02 | 학점은행제 | 외국어로서의 한국어학 전공 | B.A.(학점-2023-학-015269) |
-| 05.02~19.02 | 학점은행제 | 심리학 | B.A.(학점-2019-학-009699) |
-| 05.09~07.02 | 학점은행제 | 사회복지학 | B.A.(학점-2007-학-38437) |
-| 80.03~85.02 | 경희대학교 | 영어영문학 | B.A.(1984-나-54357) |
+| 2023 | 대전대학교 대학원 | 심리학과 심리학 전공 | 심리학박사(대전대2022(박)-056) |
+| 2020 | 예명대학원대학교 | 인문사회학부 상담심리학 전공 | 상담심리학박사(예명대(박)-47) |
+| 2011 | 충북대학교 대학원 | 산림학과 산림환경학 전공 | 박사과정 수료 |
+| 2021 | 예명대학원대학교 | 인문사회학부 정신분석상담 전공 | 정신분석상담학석사(예명대(석)-366) |
+| 2000 | University of Glamorgan(UK) | Modern Evangelical Theology | Th.M(97001910) |
+| 2023 | 학점은행제 | 외국어로서의 한국어학 전공 | B.A.(학점-2023-학-015269) |
+| 2019 | 학점은행제 | 심리학 | B.A.(학점-2019-학-009699) |
+| 2007 | 학점은행제 | 사회복지학 | B.A.(학점-2007-학-38437) |
+| 1985 | 경희대학교 | 영어영문학 | B.A.(1984-나-54357) |
 
 
 ::: 대학교 강의 경력 사항 :::
 
 | 연도 | 학과 | 대학교 |
 | --- | --- | --- |
-| Former | 산업심리학과 | 대전대학교 |
-| 21.03~21.06 | 인문사회학부 정신분석상담 전공 | 예명대학원대학교 |
+| 2022 | 산업심리학과 | 대전대학교 |
+| 2021 | 인문사회학부 정신분석상담 전공 | 예명대학원대학교 |
 
 
 ::: 자격 및 훈련 :::
@@ -38,20 +38,20 @@
 | (현) | [국제교류분석학회(ITAA) 정회원](https://membersarea.itaaworld.com/civicrm/profile/view?reset=1&id=21637&gid=18) |
 | (현) | [국제정신분석학회(NPSA) 정회원](https://npsa-association.org/) |
 | (현) | [뫔길다문화심리교육신문 대표](https://muamway.net) |
-| 25.06.14 | 갈등조정전문가(1급)(한국갈등조정중재그룹, 2025-CM1-39) |
-| 23.09.20 | 산림교육전문가(산림청, 2023-1-17933) |
-| 23.04.28 | 한국어교원 2급(문체부, 23-21-0928) |
-| 22.04.04 | [교류분석마스터코치(한국교류분석상담학회)](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
-| 18.11.30 | 평생교육사 2급(제N2-18-6298호, 교육부) |
-| 18.11.11 | [하브루타교육전문가(자격이수번호: 2018-00-013, 하브루타교육협회)](https://cafe.naver.com/havrutaeducation/1993) |
-| 18.11.11 | [하브루타교육사 1급(자격이수번호: 2018-01-0012, 하브루타교육협회)](https://cafe.naver.com/havrutaeducation/1993) |
-| 18.10~19.01 | 가정폭력전문상담원 교육 수료(대전대평생교육원) |
-| 15.07.31 | [국제공인 NLP Trainer(NLPU)](https://www.nlpuniversitypress.com/gtcsessions/listmem.php?memID=965) |
-| 12.06- | [한국교류분석상담학회 상담(12.06)·교육(14.02)·조직(13.11) 영역 수련감독](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%BB%F3%B4%E3%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
-| 08.12.12 | 숲해설가(국민대평생교육원: 20008504, 산림청) |
-| 08.10.27 | [라이프포밍 리더십 코치(LLC)](https://lifeformingcoach.com/) |
-| 06.08.28 | 사회복지사 2급(제2-93333호, 보건복지부) |
-| 05.10.06 | 국제공인 마인드맵 지도사(Buzan Licensed Instructor)(국제부잔센터) |
+| 2025 | 갈등조정전문가(1급)(한국갈등조정중재그룹, 2025-CM1-39) |
+| 2023 | 산림교육전문가(산림청, 2023-1-17933) |
+| 2023 | 한국어교원 2급(문체부, 23-21-0928) |
+| 2022 | [교류분석마스터코치(한국교류분석상담학회)](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%B1%B3%B7%F9%BA%D0%BC%AE%B8%B6%BD%BA%C5%CD%C4%DA%C4%A1&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
+| 2018 | 평생교육사 2급(제N2-18-6298호, 교육부) |
+| 2018 | [하브루타교육전문가(자격이수번호: 2018-00-013, 하브루타교육협회)](https://cafe.naver.com/havrutaeducation/1993) |
+| 2018 | [하브루타교육사 1급(자격이수번호: 2018-01-0012, 하브루타교육협회)](https://cafe.naver.com/havrutaeducation/1993) |
+| 2018 | 가정폭력전문상담원 교육 수료(대전대평생교육원) |
+| 2015 | [국제공인 NLP Trainer(NLPU)](https://www.nlpuniversitypress.com/gtcsessions/listmem.php?memID=965) |
+| 2012 | [한국교류분석상담학회 상담(12.06)·교육(14.02)·조직(13.11) 영역 수련감독](https://taca.kr/new_2017_html/sub0403.php?search_gubunx=%BB%F3%B4%E3%BF%B5%BF%AA%B1%B3%B7%F9%BA%D0%BC%AE%BC%F6%B7%C3%B0%A8%B5%B6%C0%DA&search_date=&search_sido=&search_name=%B9%DA%BF%EB%B9%CE) |
+| 2008 | 숲해설가(국민대평생교육원: 20008504, 산림청) |
+| 2008 | [라이프포밍 리더십 코치(LLC)](https://lifeformingcoach.com/) |
+| 2006 | 사회복지사 2급(제2-93333호, 보건복지부) |
+| 2005 | 국제공인 마인드맵 지도사(Buzan Licensed Instructor)(국제부잔센터) |
 
 
 ::: 학위논문(Dissertation & Thesis) :::
@@ -67,8 +67,8 @@
 
 | 주/공 | 연도 | 제목 | 학회지 | 권/호/쪽 |
 | --- | --- | --- | --- | --- |
-| 주 | 2021.01 | [Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://db.koreascholar.com/Article/Detail/410385) | <i>코칭연구</i> | 4(5): 77-104 |
-| 공 | 2021.12 | 간호사를 위한 교육프로그램의 효과에 관한 R메타분석 | <i>코칭연구</i> | 4(6): 91-118 |
+| 주 | 2021 | [Meta-analysis with R on the Effectiveness of Emotional Coaching Programs](https://db.koreascholar.com/Article/Detail/410385) | <i>코칭연구</i> | 4(5): 77-104 |
+| 공 | 2021 | 간호사를 위한 교육프로그램의 효과에 관한 R메타분석 | <i>코칭연구</i> | 4(6): 91-118 |
 | 공 | 2014 | TACA형 자아상태 평정척도 개발 및 타당화 연구 | <i>교류분석상담연구</i> | 4(2): 25-78 |
 | 공 | 2014 | TACA형 인생태도 평정척도 개발 및 타당화 연구 | <i>교류분석상담연구</i> | 4(2): 125-163 |
 
